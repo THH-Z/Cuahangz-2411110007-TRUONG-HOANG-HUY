@@ -3,7 +3,7 @@
   "WorkspaceRootPath": "C:\\Users\\ADMIN\\Desktop\\Cuahangz-2411110007 TRUONG HOANG HUY\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C1570417-AEF0-456C-8C20-140F34214D8B}|GUI\\GUI.csproj|C:\\Users\\ADMIN\\Desktop\\Cuahangz-2411110007 TRUONG HOANG HUY\\gui\\ucchitietdonhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C1570417-AEF0-456C-8C20-140F34214D8B}|GUI\\GUI.csproj|c:\\users\\admin\\desktop\\cuahangz-2411110007 truong hoang huy\\gui\\ucchitietdonhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C1570417-AEF0-456C-8C20-140F34214D8B}|GUI\\GUI.csproj|solutionrelative:gui\\ucchitietdonhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -11,7 +11,7 @@
       "RelativeMoniker": "D:0:0:{C1570417-AEF0-456C-8C20-140F34214D8B}|GUI\\GUI.csproj|solutionrelative:gui\\ucchitietdonhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FA5571BB-1719-4350-9582-AB54CC445FF2}|DATA\\DATA.csproj|c:\\users\\admin\\desktop\\cuahangz-2411110007 truong hoang huy\\data\\chitietdonhangdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FA5571BB-1719-4350-9582-AB54CC445FF2}|DATA\\DATA.csproj|C:\\Users\\ADMIN\\Desktop\\Cuahangz-2411110007 TRUONG HOANG HUY\\data\\chitietdonhangdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FA5571BB-1719-4350-9582-AB54CC445FF2}|DATA\\DATA.csproj|solutionrelative:data\\chitietdonhangdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -87,8 +87,7 @@
               "RelativeToolTip": "DATA\\ChitietDonHangData.cs",
               "ViewState": "AgIAABkAAAAAAAAAAAAwwDcAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-21T14:13:17.608Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-21T14:13:17.608Z"
             },
             {
               "$type": "Document",

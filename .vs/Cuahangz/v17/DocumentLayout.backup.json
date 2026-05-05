@@ -1,33 +1,33 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ADMIN\\Desktop\\Cuahangz\\",
+  "WorkspaceRootPath": "C:\\Users\\ADMIN\\Desktop\\Cuahangz-2411110007 TRUONG HOANG HUY\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FA5571BB-1719-4350-9582-AB54CC445FF2}|DATA\\DATA.csproj|c:\\users\\admin\\desktop\\cuahangz\\data\\chitietdonhangdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FA5571BB-1719-4350-9582-AB54CC445FF2}|DATA\\DATA.csproj|solutionrelative:data\\chitietdonhangdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C1570417-AEF0-456C-8C20-140F34214D8B}|GUI\\GUI.csproj|C:\\Users\\ADMIN\\Desktop\\Cuahangz\\gui\\ucchitietdonhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C1570417-AEF0-456C-8C20-140F34214D8B}|GUI\\GUI.csproj|C:\\Users\\ADMIN\\Desktop\\Cuahangz-2411110007 TRUONG HOANG HUY\\gui\\ucchitietdonhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C1570417-AEF0-456C-8C20-140F34214D8B}|GUI\\GUI.csproj|solutionrelative:gui\\ucchitietdonhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C1570417-AEF0-456C-8C20-140F34214D8B}|GUI\\GUI.csproj|C:\\Users\\ADMIN\\Desktop\\Cuahangz\\gui\\ucchitietdonhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{C1570417-AEF0-456C-8C20-140F34214D8B}|GUI\\GUI.csproj|C:\\Users\\ADMIN\\Desktop\\Cuahangz-2411110007 TRUONG HOANG HUY\\gui\\ucchitietdonhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{C1570417-AEF0-456C-8C20-140F34214D8B}|GUI\\GUI.csproj|solutionrelative:gui\\ucchitietdonhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C1570417-AEF0-456C-8C20-140F34214D8B}|GUI\\GUI.csproj|C:\\Users\\ADMIN\\Desktop\\Cuahangz\\gui\\ucdonhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FA5571BB-1719-4350-9582-AB54CC445FF2}|DATA\\DATA.csproj|c:\\users\\admin\\desktop\\cuahangz-2411110007 truong hoang huy\\data\\chitietdonhangdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA5571BB-1719-4350-9582-AB54CC445FF2}|DATA\\DATA.csproj|solutionrelative:data\\chitietdonhangdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1570417-AEF0-456C-8C20-140F34214D8B}|GUI\\GUI.csproj|C:\\Users\\ADMIN\\Desktop\\Cuahangz-2411110007 TRUONG HOANG HUY\\gui\\ucdonhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C1570417-AEF0-456C-8C20-140F34214D8B}|GUI\\GUI.csproj|solutionrelative:gui\\ucdonhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1C974120-2C40-4941-8A85-7E181C0B1190}|BUS\\BUS.csproj|C:\\Users\\ADMIN\\Desktop\\Cuahangz\\bus\\chitietdonhangbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1C974120-2C40-4941-8A85-7E181C0B1190}|BUS\\BUS.csproj|C:\\Users\\ADMIN\\Desktop\\Cuahangz-2411110007 TRUONG HOANG HUY\\bus\\chitietdonhangbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1C974120-2C40-4941-8A85-7E181C0B1190}|BUS\\BUS.csproj|solutionrelative:bus\\chitietdonhangbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1C974120-2C40-4941-8A85-7E181C0B1190}|BUS\\BUS.csproj|C:\\Users\\ADMIN\\Desktop\\Cuahangz\\bus\\donhangbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1C974120-2C40-4941-8A85-7E181C0B1190}|BUS\\BUS.csproj|C:\\Users\\ADMIN\\Desktop\\Cuahangz-2411110007 TRUONG HOANG HUY\\bus\\donhangbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1C974120-2C40-4941-8A85-7E181C0B1190}|BUS\\BUS.csproj|solutionrelative:bus\\donhangbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FA5571BB-1719-4350-9582-AB54CC445FF2}|DATA\\DATA.csproj|C:\\Users\\ADMIN\\Desktop\\Cuahangz\\data\\donhangdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FA5571BB-1719-4350-9582-AB54CC445FF2}|DATA\\DATA.csproj|C:\\Users\\ADMIN\\Desktop\\Cuahangz-2411110007 TRUONG HOANG HUY\\data\\donhangdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FA5571BB-1719-4350-9582-AB54CC445FF2}|DATA\\DATA.csproj|solutionrelative:data\\donhangdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -38,38 +38,40 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "ucChiTietDonHang.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\Cuahangz\\GUI\\ucChiTietDonHang.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\Cuahangz-2411110007 TRUONG HOANG HUY\\GUI\\ucChiTietDonHang.cs",
               "RelativeDocumentMoniker": "GUI\\ucChiTietDonHang.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\Cuahangz\\GUI\\ucChiTietDonHang.cs [Design]",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\Cuahangz-2411110007 TRUONG HOANG HUY\\GUI\\ucChiTietDonHang.cs [Design]",
               "RelativeToolTip": "GUI\\ucChiTietDonHang.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-21T14:28:13.454Z"
+              "WhenOpened": "2026-03-21T14:28:13.454Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "ucChiTietDonHang.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\Cuahangz\\GUI\\ucChiTietDonHang.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\Cuahangz-2411110007 TRUONG HOANG HUY\\GUI\\ucChiTietDonHang.cs",
               "RelativeDocumentMoniker": "GUI\\ucChiTietDonHang.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\Cuahangz\\GUI\\ucChiTietDonHang.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\Cuahangz-2411110007 TRUONG HOANG HUY\\GUI\\ucChiTietDonHang.cs",
               "RelativeToolTip": "GUI\\ucChiTietDonHang.cs",
-              "ViewState": "AgIAAI8AAAAAAAAAAAAiwKYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAIwKYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-21T14:04:51.74Z"
+              "WhenOpened": "2026-03-21T14:04:51.74Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "ChiTietDonHangBUS.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\Cuahangz\\BUS\\ChiTietDonHangBUS.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\Cuahangz-2411110007 TRUONG HOANG HUY\\BUS\\ChiTietDonHangBUS.cs",
               "RelativeDocumentMoniker": "BUS\\ChiTietDonHangBUS.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\Cuahangz\\BUS\\ChiTietDonHangBUS.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\Cuahangz-2411110007 TRUONG HOANG HUY\\BUS\\ChiTietDonHangBUS.cs",
               "RelativeToolTip": "BUS\\ChiTietDonHangBUS.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -77,13 +79,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "ChitietDonHangData.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\Cuahangz\\DATA\\ChitietDonHangData.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\Cuahangz-2411110007 TRUONG HOANG HUY\\DATA\\ChitietDonHangData.cs",
               "RelativeDocumentMoniker": "DATA\\ChitietDonHangData.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\Cuahangz\\DATA\\ChitietDonHangData.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\Cuahangz-2411110007 TRUONG HOANG HUY\\DATA\\ChitietDonHangData.cs",
               "RelativeToolTip": "DATA\\ChitietDonHangData.cs",
-              "ViewState": "AgIAACgAAAAAAAAAAAAIwDcAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAABkAAAAAAAAAAAAwwDcAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-21T14:13:17.608Z",
               "EditorCaption": ""
@@ -92,9 +94,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "ucDonHang.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\Cuahangz\\GUI\\ucDonHang.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\Cuahangz-2411110007 TRUONG HOANG HUY\\GUI\\ucDonHang.cs",
               "RelativeDocumentMoniker": "GUI\\ucDonHang.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\Cuahangz\\GUI\\ucDonHang.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\Cuahangz-2411110007 TRUONG HOANG HUY\\GUI\\ucDonHang.cs",
               "RelativeToolTip": "GUI\\ucDonHang.cs",
               "ViewState": "AgIAAD8AAAAAAAAAAAAYwFAAAABUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -104,9 +106,9 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "DonHangBUS.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\Cuahangz\\BUS\\DonHangBUS.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\Cuahangz-2411110007 TRUONG HOANG HUY\\BUS\\DonHangBUS.cs",
               "RelativeDocumentMoniker": "BUS\\DonHangBUS.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\Cuahangz\\BUS\\DonHangBUS.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\Cuahangz-2411110007 TRUONG HOANG HUY\\BUS\\DonHangBUS.cs",
               "RelativeToolTip": "BUS\\DonHangBUS.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAACsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -116,9 +118,9 @@
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "DonhangData.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\Cuahangz\\DATA\\DonhangData.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\Cuahangz-2411110007 TRUONG HOANG HUY\\DATA\\DonhangData.cs",
               "RelativeDocumentMoniker": "DATA\\DonhangData.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\Cuahangz\\DATA\\DonhangData.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\Cuahangz-2411110007 TRUONG HOANG HUY\\DATA\\DonhangData.cs",
               "RelativeToolTip": "DATA\\DonhangData.cs",
               "ViewState": "AgIAADoAAAAAAAAAAAAAAFIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
