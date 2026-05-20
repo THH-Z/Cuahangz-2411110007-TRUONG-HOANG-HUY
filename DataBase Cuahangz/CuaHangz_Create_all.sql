@@ -1,7 +1,7 @@
 ﻿USE master
 GO
 
-/*
+
 IF EXISTS (SELECT * FROM sys.databases WHERE name='CuaHangz')
     BEGIN
     ALTER DATABASE CuaHangz
@@ -9,7 +9,7 @@ IF EXISTS (SELECT * FROM sys.databases WHERE name='CuaHangz')
     WITH ROLLBACK IMMEDIATE;
     DROP DATABASE CuaHangz;
 END
-GO*/
+GO
 
 CREATE DATABASE CuaHangz
 GO
